@@ -1,4 +1,4 @@
-# Marius Pruvot
+![Marius Pruvot](./title.svg)
 
 ![My skyline](https://raw.githubusercontent.com/mariuspruvot/mariuspruvot/output/skyline.svg)
 
